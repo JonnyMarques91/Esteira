@@ -11,7 +11,7 @@
 
 /* Definição das máscaras */
 #define DISPLAY_WIDTH 16
-#define DIM_CODE      13    //Talvez tenha que aumentar aqui a qtd limite de nºs dos códigos de barra
+#define DIM_CODE      13
 
 /* Definição do pino de saída para rejeição */
 int PINO_REJEICAO = 13;
